@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.logo-menu{
+    width: 86px;
+}
+
+.altura{
+    height: 65px;
+}
+
+.color-titulo{
+    color:#212529;
+}
+.color-contenido
+{
+    color:#707070;
+}
+
+.suscribe{
+    height: 241px;
+}
+
+.logo-pie{
+height: 24px;
+width: 82px;
+}
+
+.card{
+    max-height: 480px;
+    height: 100%;
+}
